@@ -4,7 +4,7 @@
 
 ### Account List
 
-![account-list](./assets/account-list.png)
+![account-list](./account-list.png)
 
 ### Link transaction address founded
 
@@ -12,4 +12,4 @@ https://explorer.nervos.org/aggron/transaction/0x109638b590b796ef824bc0f008e2885
 
 ### Deposit to Layer 2
 
-![deposit-layer-2](./assets/desposit-layer1-to-layer2.png)
+![deposit-layer-2](./desposit-layer1-to-layer2.png)
