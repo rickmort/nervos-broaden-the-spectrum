@@ -2,7 +2,7 @@
 
 ## Task Submission
 
-[CKB testnet address founded](https://explorer.nervos.org/aggron/address/ckt1qyq08a05gh303pnf43cvpdxvcwn498qxtyrsnqd5hj)
+[CKB testnet address funded](https://explorer.nervos.org/aggron/address/ckt1qyq08a05gh303pnf43cvpdxvcwn498qxtyrsnqd5hj)
 
 
 ### SUDT created
