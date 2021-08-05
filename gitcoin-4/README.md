@@ -15,4 +15,4 @@
 
 ![sending-sudt-from-layer1-to-layer2](./assets/submit-sudt-l1-to-l2.png)
 
-[USDT ID](./assets/sudt-id.txt)
+[SUDT ID](./assets/sudt-id.txt)
